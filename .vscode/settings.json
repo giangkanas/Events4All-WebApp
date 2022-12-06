@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": ".",
+    "appService.defaultWebAppToDeploy": "/subscriptions/463960bc-549b-41d0-8b3d-e1f1f2c2f0f4/resourceGroups/gk802/providers/Microsoft.Web/sites/events4all"
+}
