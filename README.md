@@ -1,3 +1,3 @@
 # Web_development_project
 
-In this project, we create a web app for searching events. This web app, gives information about future events like concerts, sports events etc.
+The purpose of this project was to create a web application for searching and organizing events. The application provides the user with information about current or upcoming events enriched with visual content. The application stands out with its capability to search for events based on user criteria (e.g., City) and combines features such as responsiveness, user authentication, and database utilization.
